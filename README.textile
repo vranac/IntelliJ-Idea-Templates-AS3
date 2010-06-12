@@ -1,0 +1,8 @@
+Two templates for IntelliJ Idea for Flex/AS3 projects
+
+h2. Installation
+
+Copy the files to your file templates folder, on windows that should be c:\Users\YOUR-USERNAME\.IntelliJIdea90\config\fileTemplates\
+and restart the Idea, you should have two new items in the new templates context menu:
+* ActionScript Class for Preloader
+* ActionScript Preloader Class
