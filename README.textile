@@ -4,7 +4,7 @@ These two templates should enable you to setup your AS3 project similar to the F
 
 h2. Installation
 
-Copy the files to your file templates folder, on windows that should be c:\Users\YOUR-USERNAME\.IntelliJIdea90\config\fileTemplates\
+Copy the files to your file templates folder, on windows that should be \Users\YOUR-USERNAME\.IntelliJIdea90\config\fileTemplates\
 and restart the Idea, you should have two new items in the new templates context menu:
 * ActionScript Class for Preloader
 * ActionScript Preloader Class
