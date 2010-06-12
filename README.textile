@@ -1,4 +1,6 @@
-Two templates for IntelliJ Idea for Flex/AS3 projects
+Two templates for IntelliJ Idea for Flex/AS3 projects.
+
+These two templates should enable you to setup your AS3 project similar to the FD3 as3 project with preloader
 
 h2. Installation
 
@@ -6,3 +8,7 @@ Copy the files to your file templates folder, on windows that should be c:\Users
 and restart the Idea, you should have two new items in the new templates context menu:
 * ActionScript Class for Preloader
 * ActionScript Preloader Class
+
+h2. Usage
+
+Create new class from the menu, enter the required params, and follow the comments in the newly created class for setup
