@@ -15,6 +15,8 @@ public class ${NAME} extends Sprite {
     }
     private function init(e:Event = null):void {
         removeEventListener(Event.ADDED_TO_STAGE, init);
+		
+		//entry point
     }
 }
 }
